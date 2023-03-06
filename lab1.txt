@@ -1,0 +1,47 @@
+Ćw.1
+Budżet(czas): 
+- Analiza wymagań - 2 miesiące, 
+- Projektowanie interfejsu użytkownika - 3 miesiące, 
+- Implementacja aplikacji - 9 miesięcy,
+- Testowanie aplikacji - 2 miesiące, 
+- Wdrożenie aplikacji - 2 tygodnie, 
+- Wsparcie i rozwój - trwający cały czas po wdrożeniu aplikacji
+
+Koszt zatrudnienia zespołu projektowego: 120 000zł
+Koszt narzędzi i oprogramowania: 5 000zł
+Koszt serwera i infrastruktury: 10 000zł
+Koszt marketingu i promocji: 8 000zł
+Łączny koszt projektu: 143 000zł
+
+Cel projektu: 
+- Stworzenie aplikacji webowej i mobilnej, ułatwiającej zarządzanie wypożyczalnią sprzętu sportowego
+- Umożliwienie klientom wypożyczanie sprzętu sportowego przez internet oraz zapewnienie łatwej obsługi zamówień i płatności
+- Umożliwienie właścicielom wypożyczalni zarządzanie stanem magazynowym, zarządzanie zamówieniami i płatnościami oraz oferowanie promocji
+
+Odpowiedzialności (role w zespole): frontend developer, backend developer, UX designer, tester, project manager, business analyst
+
+Ćw.2
+Karta projektu
+
+Nazwa projektu: SportRent
+Wizja: Aplikacja SportRent ma na celu ułatwienie zarządzania wypożyczalnią sprzętu sportowego, umożliwiając klientom łatwe i wygodne wypożyczanie oraz właścicielom skuteczne zarządzanie zamówieniami i płatnościami.
+Zakres projektu: Analiza wymagań, Projektowanie interfejsu użytkownika, Implementacja aplikacji, Testowanie aplikacji, Wdrożenie aplikacji, Wsparcie i rozwój
+
+Role: 
+- frontend developer - tworzy wygląd wizualny aplikacji, 
+- backend developer - tworzy mechanizmy obsługujące aplikację i bazę danych, 
+- UX designer - dba o wygląd i funkcjonalność aplikacji, 
+- tester - testuje aplikację, 
+- project manager - nadzoruje zespół i ustala terminy, 
+- business analyst - analizuje biznesową stronę aplikacji
+
+KPI:
+Wdrożenie aplikacji zgodnie z harmonogramem i budżetem
+Osiągnięcie wysokiej jakości i wydajności aplikacji
+Pozytywne opinie od klientów i właścicieli wypożyczalni sprzętu sportowego
+Zwiększenie liczby wypożyczeń i przychodów dla właścicieli wypożyczalni
+Zwiększenie świadomości klientów na temat wypożyczalni sprzętu sportowego w okolicy
+
+Ryzyka projektowe:
+Problemy z integracją systemów płatności online
+Problemy z wydajnością aplikacji w czasie wzmożonego ruchu turystycznego
